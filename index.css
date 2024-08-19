@@ -1,0 +1,11 @@
+html{
+    background-color:rgb(171, 228, 245);
+    padding:20px;
+}
+body{
+    font-family: Saira;
+}
+a{
+    color:black;
+    text-decoration: underline;
+}
