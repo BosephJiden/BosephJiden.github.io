@@ -2,6 +2,7 @@
     font-family: "Saira";
     background-color: rgba(0, 0, 0, 0);
     overflow: hidden;
+    padding: -20px;
   }
   
   /* Style the links inside the navigation bar */
@@ -16,12 +17,19 @@
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #ddd;
+    background-color: #ffe0e0;
     color: black;
+    border-radius: 10px;
   }
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #04aa6d74;
+    background-color: #04aaa774;
     color: white;
+    border-radius: 5px;
+  }
+  .topnav a.active:hover {
+    background-color: #04aaa793;
+    color:white;
+    border-radius: 5px;
   }

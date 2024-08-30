@@ -15,7 +15,8 @@ p{
     font-family: "Modurustic";
 }
 html{
-    background-color: rgb(254, 245, 221);
+    padding: 20px;
+    background-color: rgb(245, 211, 171);
 }
 img{
     padding: 20px;
