@@ -24,12 +24,12 @@
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #04aaa774;
-    color: white;
+    background-color: #fdcdcd;
+    color: black;
     border-radius: 5px;
   }
   .topnav a.active:hover {
-    background-color: #04aaa793;
-    color:white;
+    background-color: #ffb5b5;
+    color:black;
     border-radius: 5px;
   }
