@@ -2,9 +2,6 @@ h1, h2, h3{
     font-family:"Saira";
     text-decoration: underline;
 }
-.realbody{
-    padding:20px;
-}
 .title{
     font-family:"Saira";
     font-weight: 700;
@@ -15,6 +12,7 @@ p{
     font-family: "Modurustic";
 }
 html{
+    padding: 20px;
     background-color: rgb(230, 230, 230);
 }
 img{
